@@ -77,8 +77,9 @@
 ## 🧭 UML Class Diagram
 
 <p align="center">
-  <!-- غيّر اللينك ده بعد ما ترفع صورة الـ UML في الريبو -->
-  <img src="UML_Diagram.png" alt="Traffic Management System UML" width="850">
+  <img " alt="Traffic Management System UML" width="850">
+  <br>
+  📄 <a href="Traffic Management System UML.pdf" target="_blank">Click here to open UML PDF</a>
 </p>
 
 > The diagram shows the relationships between: `Account`, `Admin`, `Owner`, `TrafficOfficer`, `Zone`, `Traffic_Lights`, `Vehicle`, `Traffic_Violation`, `Notification`, `TrafficReport`, `File_Processing`, `Display`, and `Exc`.
