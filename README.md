@@ -77,8 +77,6 @@
 ## 🧭 UML Class Diagram
 
 <p align="center">
-  <img " alt="Traffic Management System UML" width="850">
-  <br>
   📄 <a href="Traffic Management System UML.pdf" target="_blank">Click here to open UML PDF</a>
 </p>
 
